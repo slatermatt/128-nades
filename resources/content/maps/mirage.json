@@ -61,15 +61,6 @@
 			}
 		},
 		{
-			"video": "CjPDqEa3Hvk",
-			"type": "Smoke",
-			"location": {
-				"from": "Back Alley",
-				"to": "Left Arch",
-				"area": "B"
-			}
-		},
-		{
 			"video": "lObxHCQfzTQ",
 			"type": "Smoke",
 			"location": {
