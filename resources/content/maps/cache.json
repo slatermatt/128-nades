@@ -140,6 +140,15 @@
 				"to": "Checkers",
 				"area": "B"
 			}
+		},
+		{
+			"video": "dIZfxyEuy9E",
+			"type": "Smoke",
+			"location": {
+				"from": "Headshot",
+				"to": "B Main",
+				"area": "B"
+			}
 		}
 	]
 }
