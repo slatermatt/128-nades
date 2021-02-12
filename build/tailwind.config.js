@@ -34,7 +34,7 @@ module.exports = {
 		},
 		fontFamily: {
 			body: ['RobotoMono', 'Helvetica', 'sans-serif'],
-			heading: ['RobotoMono', 'Georgia', 'serif'],
+			heading: ['RobotoMono', 'Helvetica', 'sans-serif'],
 			system: ['system-ui', 'sans-serif'],
 		},
 		boxShadow: {
@@ -104,9 +104,7 @@ module.exports = {
 		},
 	},
 	variants: {
-		extend: {
-			scale: ['active', 'group-hover'],
-		},
+		scale: ['group-hover'],
 	},
 	corePlugins: {
 		container: false,

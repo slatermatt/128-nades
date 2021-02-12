@@ -22,7 +22,9 @@
 			<map-card
 				v-for="(map, index) in maps"
 				:key="index"
-				v-bind="map"
+				:img="map.img"
+				:title="map.title"
+				:url="map.url"
 			/>
 		</div>
 	</div>

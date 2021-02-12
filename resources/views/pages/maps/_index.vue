@@ -7,7 +7,7 @@
 			]"
 		>
 			<h1
-				class="x-h1"
+				class="x-h1 x-fade"
 				v-text="title"
 			/>
 
