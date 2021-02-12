@@ -1,11 +1,14 @@
 <template>
 	<nuxt-link :to="$props.url">
-		<div class="x-placeholder">
-			<img v-bind="$props.img">
+		<div class="x-placeholder group overflow-hidden">
+			<img
+				class="transition-transform duration-200 transform group-hover:scale-105"
+				v-bind="$props.img"
+			>
 		</div>
 
 		<h1
-			class="x-h3 mt-5"
+			class="x-h3 x-fade mt-5"
 			v-text="$props.title"
 		/>
 	</nuxt-link>
@@ -13,6 +16,8 @@
 
 <script>
 	export default {
+		inheritAttrs: false,
+
 		props: {
 			title: {
 				type: String,

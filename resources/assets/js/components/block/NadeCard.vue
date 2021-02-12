@@ -1,7 +1,10 @@
 <template>
-	<div>
+	<intersect
+		type="article"
+		@intersect="visible = true"
+	>
 		<div class="x-placeholder">
-			<no-ssr>
+			<no-ssr v-if="visible">
 				<youtube
 					player-width="100%"
 					player-height="100%"
@@ -15,11 +18,17 @@
 
 			<p>to:  <span class="font-bold text-brand-primary" v-text="location.to" /></p>
 		</div>
-	</div>
+	</intersect>
 </template>
 
 <script>
+	import Intersect from '../common/Intersect';
+
 	export default {
+		components: {
+			Intersect,
+		},
+
 		props: {
 			type: {
 				type: String,
@@ -35,6 +44,12 @@
 				type: String,
 				required: true,
 			},
+		},
+
+		data() {
+			return {
+				visible: false,
+			};
 		},
 	};
 </script>
