@@ -1,0 +1,109 @@
+{
+	"title": "Cache",
+	"img": {
+		"src": "/static/img/maps/cache.jpg",
+		"alt": "de_cache"
+	},
+	"url": "/maps/cache",
+	"items": [
+		{
+			"video": "KMqGUio9FEg",
+			"type": "Smoke",
+			"location": {
+				"from": "Car",
+				"to": "Long Doors",
+				"area": "A"
+			}
+		},
+		{
+			"video": "MU1H_WfoDEo",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "Xbox",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "KdbJCu43il8",
+			"type": "Smoke",
+			"location": {
+				"from": "Tunnels",
+				"to": "Window",
+				"area": "B"
+			}
+		},
+		{
+			"video": "E9gciV11miY",
+			"type": "Smoke",
+			"location": {
+				"from": "Back of T Spawn",
+				"to": "Xbox",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "dQ3oUKVvhkg",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "Top of A Long",
+				"area": "A"
+			}
+		},
+		{
+			"video": "dWHFwd_VeM8",
+			"type": "Smoke",
+			"location": {
+				"from": "Tunnels",
+				"to": "Mid Doors",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "cGVYMmrDYYI",
+			"type": "Smoke",
+			"location": {
+				"from": "Xbox",
+				"to": "CT Spawn",
+				"area": "Mid"
+			}
+		},
+		{
+			"video": "gJzT_B5eLCE",
+			"type": "Smoke",
+			"location": {
+				"from": "A Short",
+				"to": "CT Spawn",
+				"area": "A"
+			}
+		},
+		{
+			"video": "UYqK4RaQva8",
+			"type": "Smoke",
+			"location": {
+				"from": "A Long",
+				"to": "CT Spawn",
+				"area": "A"
+			}
+		},
+		{
+			"video": "-PxBRjbGHmU",
+			"type": "Smoke",
+			"location": {
+				"from": "Short",
+				"to": "Short Cross",
+				"area": "A"
+			}
+		},
+		{
+			"video": "jlHq_-LetO4",
+			"type": "Smoke",
+			"location": {
+				"from": "Tunnels",
+				"to": "B Doors",
+				"area": "B"
+			}
+		}
+	]
+}
