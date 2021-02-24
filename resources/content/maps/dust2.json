@@ -1,10 +1,10 @@
 {
-	"title": "Cache",
+	"title": "Dust 2",
 	"img": {
 		"src": "/static/img/maps/cache.jpg",
-		"alt": "de_cache"
+		"alt": "de_dust2"
 	},
-	"url": "/maps/cache",
+	"url": "/maps/dust-2",
 	"items": [
 		{
 			"video": "KMqGUio9FEg",
