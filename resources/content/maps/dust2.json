@@ -1,7 +1,7 @@
 {
 	"title": "Dust 2",
 	"img": {
-		"src": "/static/img/maps/cache.jpg",
+		"src": "/static/img/maps/dust2.jpg",
 		"alt": "de_dust2"
 	},
 	"url": "/maps/dust2",
