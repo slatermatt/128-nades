@@ -5,5 +5,115 @@
 		"alt": "de_overpass"
 	},
 	"url": "/maps/overpass",
-	"items": []
+	"items": [
+		{
+			"video": "F6i7HCHG4HE",
+			"type": "Smoke",
+			"location": {
+				"from": "A Long",
+				"to": "Bank Cross",
+				"area": "A"
+			}
+		},
+		{
+			"video": "6Sv4DUnbpbw",
+			"type": "Smoke",
+			"location": {
+				"from": "Water",
+				"to": "B Site",
+				"area": "B"
+			}
+		},
+        {
+			"video": "nmlqwcHXcuo",
+			"type": "Smoke",
+			"location": {
+				"from": "Toilets",
+				"to": "A Site",
+				"area": "A"
+			}
+		},
+        {
+			"video": "mEb49Tg6WGs",
+			"type": "Smoke",
+			"location": {
+				"from": "Connector",
+				"to": "Bank",
+				"area": "A"
+			}
+		},
+        {
+			"video": "UnLbZLqdL0E",
+			"type": "Smoke",
+			"location": {
+				"from": "Water",
+				"to": "Bridge",
+				"area": "B"
+			}
+		},
+        {
+			"video": "LkSdY0iI5-k",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "B Site",
+				"area": "B"
+			}
+		},
+        {
+			"video": "Wgsb1SmZlzE",
+			"type": "Smoke",
+			"location": {
+				"from": "A Long",
+				"to": "Dumpster",
+				"area": "A"
+			}
+		},
+        {
+			"video": "mscNLC9Hi8o",
+			"type": "Smoke",
+			"location": {
+				"from": "Toilets",
+				"to": "Dumpster",
+				"area": "A"
+			}
+		},
+        {
+			"video": "3OTF11SFl2s",
+			"type": "Smoke",
+			"location": {
+				"from": "Ct Spawn",
+				"to": "Monster",
+				"area": "B"
+			}
+		},
+        {
+			"video": "Y053qX_yius",
+			"type": "Smoke",
+			"location": {
+				"from": "Water",
+				"to": "Sniper Nest",
+				"area": "B"
+			}
+		},
+        {
+			"video": "kbqHpiHmqIc",
+			"type": "Smoke",
+			"location": {
+				"from": "T Spawn",
+				"to": "Toilets",
+				"area": "Mid"
+			}
+		},
+        {
+			"video": "3YlF96KBaok",
+			"type": "Smoke",
+			"location": {
+				"from": "Toilets",
+				"to": "Truck",
+				"area": "A"
+			}
+		}
+	]
 }
+
